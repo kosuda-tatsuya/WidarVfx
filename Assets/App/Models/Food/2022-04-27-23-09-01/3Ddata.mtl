@@ -1,0 +1,20 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.1.0)
+
+newmtl acd49985-1b3b-41c7-b562-afd6f9aa5f85_0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+d 1
+illum 1
+map_Kd textures/textured_0_v2.jpg
+noise
+bump *1
+map_bump *1
+
+newmtl $Material_1
+Kd 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
