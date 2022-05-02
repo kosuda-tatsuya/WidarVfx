@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.9724959, g: 1.1203483, b: 1.3438723, a: 1}
+  m_IndirectSpecularColor: {r: 0.7059145, g: 0.81323004, b: 0.97548115, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -5242,7 +5242,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 383502781}
-  m_LocalRotation: {x: -0.21404104, y: 0.6703335, z: 0.21152598, w: 0.6783039}
+  m_LocalRotation: {x: -0.21404105, y: 0.6703335, z: 0.21152598, w: 0.6783039}
   m_LocalPosition: {x: -0.49219793, y: -0.35459974, z: 0.14}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -16566,7 +16566,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 961739749}
-  m_LocalRotation: {x: 0.053847324, y: -0.70071244, z: 0.05318655, w: 0.7094179}
+  m_LocalRotation: {x: 0.05384735, y: -0.70071244, z: 0.053186577, w: 0.7094179}
   m_LocalPosition: {x: 0.4, y: 0.26, z: -0.064}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -21531,7 +21531,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1097835296}
-  m_LocalRotation: {x: 0.053847324, y: -0.70071244, z: 0.05318655, w: 0.7094179}
+  m_LocalRotation: {x: 0.05384735, y: -0.70071244, z: 0.053186577, w: 0.7094179}
   m_LocalPosition: {x: 0.4, y: 0.26, z: -0.064}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -26467,6 +26467,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: 3Ddata
+      objectReference: {fileID: 0}
+    - target: {fileID: 1180422568742531200, guid: 6877dc6d65d05f74c90d4b437a9c1afe,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6877dc6d65d05f74c90d4b437a9c1afe, type: 3}
